@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG "CMakeFiles/InteriorPoint-test.dir/unit_tests.cc.o" -o ../Build/bin/InteriorPoint-test  ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgtest.a 

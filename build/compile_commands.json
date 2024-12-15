@@ -1,0 +1,182 @@
+[
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -I/home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googlemock/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googlemock -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googlemock/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googlemock -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -I/home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/EigenTutorial",
+  "command": "/usr/bin/g++  -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/EigenTutorial-test.dir/unit_tests.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/EigenTutorial/unit_tests.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/EigenTutorial/unit_tests.cc",
+  "output": "EigenTutorial/CMakeFiles/EigenTutorial-test.dir/unit_tests.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/GridSearch",
+  "command": "/usr/bin/g++  -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/GridSearch.dir/main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/GridSearch/main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/GridSearch/main.cc",
+  "output": "GridSearch/CMakeFiles/GridSearch.dir/main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/GridSearch",
+  "command": "/usr/bin/g++  -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/GridSearch-test.dir/unit_tests.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/GridSearch/unit_tests.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/GridSearch/unit_tests.cc",
+  "output": "GridSearch/CMakeFiles/GridSearch-test.dir/unit_tests.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/CsvExporter",
+  "command": "/usr/bin/g++  -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/CsvExporter.dir/main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/CsvExporter/main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/CsvExporter/main.cc",
+  "output": "CsvExporter/CMakeFiles/CsvExporter.dir/main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/ConvexityTests",
+  "command": "/usr/bin/g++  -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/ConvexityTests.dir/main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/ConvexityTests/main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/ConvexityTests/main.cc",
+  "output": "ConvexityTests/CMakeFiles/ConvexityTests.dir/main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/ConvexityTests",
+  "command": "/usr/bin/g++  -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -o CMakeFiles/ConvexityTests-test.dir/unit_tests.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/ConvexityTests/unit_tests.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/ConvexityTests/unit_tests.cc",
+  "output": "ConvexityTests/CMakeFiles/ConvexityTests-test.dir/unit_tests.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/MassSpringProblemEvaluation",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/MassSpringProblemEvaluation.dir/main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringProblemEvaluation/main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringProblemEvaluation/main.cc",
+  "output": "MassSpringProblemEvaluation/CMakeFiles/MassSpringProblemEvaluation.dir/main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/MassSpringProblemEvaluation",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/MassSpringProblemEvaluation-test.dir/unit_tests.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringProblemEvaluation/unit_tests.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringProblemEvaluation/unit_tests.cc",
+  "output": "MassSpringProblemEvaluation/CMakeFiles/MassSpringProblemEvaluation-test.dir/unit_tests.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/OptimalityChecker",
+  "command": "/usr/bin/g++  -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/OptimalityChecker.dir/main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/OptimalityChecker/main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/OptimalityChecker/main.cc",
+  "output": "OptimalityChecker/CMakeFiles/OptimalityChecker.dir/main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/OptimalityChecker",
+  "command": "/usr/bin/g++  -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/OptimalityChecker-test.dir/unit_tests.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/OptimalityChecker/unit_tests.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/OptimalityChecker/unit_tests.cc",
+  "output": "OptimalityChecker/CMakeFiles/OptimalityChecker-test.dir/unit_tests.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/GradientDescent",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/GradientDescent.dir/main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/GradientDescent/main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/GradientDescent/main.cc",
+  "output": "GradientDescent/CMakeFiles/GradientDescent.dir/main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/GradientDescent",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/GradientDescent-test.dir/unit_tests.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/GradientDescent/unit_tests.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/GradientDescent/unit_tests.cc",
+  "output": "GradientDescent/CMakeFiles/GradientDescent-test.dir/unit_tests.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/NewtonMethods",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/NewtonMethods.dir/main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/NewtonMethods/main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/NewtonMethods/main.cc",
+  "output": "NewtonMethods/CMakeFiles/NewtonMethods.dir/main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/NewtonMethods",
+  "command": "/usr/bin/g++  -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/NewtonMethods-test.dir/unit_tests.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/NewtonMethods/unit_tests.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/NewtonMethods/unit_tests.cc",
+  "output": "NewtonMethods/CMakeFiles/NewtonMethods-test.dir/unit_tests.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/LBFGS",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/LBFGS.dir/main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/LBFGS/main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/LBFGS/main.cc",
+  "output": "LBFGS/CMakeFiles/LBFGS.dir/main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/LBFGS",
+  "command": "/usr/bin/g++  -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/LBFGS-test.dir/unit_tests.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/LBFGS/unit_tests.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/LBFGS/unit_tests.cc",
+  "output": "LBFGS/CMakeFiles/LBFGS-test.dir/unit_tests.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/GaussNewton",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/GaussNewton.dir/main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/GaussNewton/main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/GaussNewton/main.cc",
+  "output": "GaussNewton/CMakeFiles/GaussNewton.dir/main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/GaussNewton",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/GaussNewton-test.dir/unit_tests.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/GaussNewton/unit_tests.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/GaussNewton/unit_tests.cc",
+  "output": "GaussNewton/CMakeFiles/GaussNewton-test.dir/unit_tests.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/EqualityConstrainedNewton",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/EqualityConstrainedNewton.dir/main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/EqualityConstrainedNewton/main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/EqualityConstrainedNewton/main.cc",
+  "output": "EqualityConstrainedNewton/CMakeFiles/EqualityConstrainedNewton.dir/main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/EqualityConstrainedNewton",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/EqualityConstrainedNewton-test.dir/unit_tests.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/EqualityConstrainedNewton/unit_tests.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/EqualityConstrainedNewton/unit_tests.cc",
+  "output": "EqualityConstrainedNewton/CMakeFiles/EqualityConstrainedNewton-test.dir/unit_tests.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/EqualityConstrainedNewtonInfeasibleStart",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/EqualityConstrainedNewtonInfeasibleStart.dir/main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/EqualityConstrainedNewtonInfeasibleStart/main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/EqualityConstrainedNewtonInfeasibleStart/main.cc",
+  "output": "EqualityConstrainedNewtonInfeasibleStart/CMakeFiles/EqualityConstrainedNewtonInfeasibleStart.dir/main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/EqualityConstrainedNewtonInfeasibleStart",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/EqualityConstrainedNewtonInfeasibleStart-test.dir/unit_tests.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/EqualityConstrainedNewtonInfeasibleStart/unit_tests.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/EqualityConstrainedNewtonInfeasibleStart/unit_tests.cc",
+  "output": "EqualityConstrainedNewtonInfeasibleStart/CMakeFiles/EqualityConstrainedNewtonInfeasibleStart-test.dir/unit_tests.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/AugmentedLagrangian",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/AugmentedLagrangian.dir/main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/AugmentedLagrangian/main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/AugmentedLagrangian/main.cc",
+  "output": "AugmentedLagrangian/CMakeFiles/AugmentedLagrangian.dir/main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/AugmentedLagrangian",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/AugmentedLagrangian-test.dir/unit_tests.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/AugmentedLagrangian/unit_tests.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/AugmentedLagrangian/unit_tests.cc",
+  "output": "AugmentedLagrangian/CMakeFiles/AugmentedLagrangian-test.dir/unit_tests.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/InteriorPoint",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/InteriorPoint.dir/main.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/InteriorPoint/main.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/InteriorPoint/main.cc",
+  "output": "InteriorPoint/CMakeFiles/InteriorPoint.dir/main.cc.o"
+},
+{
+  "directory": "/home/deepshukla/aopt-exercise11/aopt-exercise11/build/InteriorPoint",
+  "command": "/usr/bin/g++ -DINCLUDE_TEMPLATES -I/home/deepshukla/aopt-exercise11/aopt-exercise11/include -I/home/deepshukla/aopt-exercise11/aopt-exercise11/external/eigen -I/home/deepshukla/aopt-exercise11/aopt-exercise11/MassSpringSystem -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest/include -isystem /home/deepshukla/aopt-exercise11/aopt-exercise11/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/InteriorPoint-test.dir/unit_tests.cc.o -c /home/deepshukla/aopt-exercise11/aopt-exercise11/InteriorPoint/unit_tests.cc",
+  "file": "/home/deepshukla/aopt-exercise11/aopt-exercise11/InteriorPoint/unit_tests.cc",
+  "output": "InteriorPoint/CMakeFiles/InteriorPoint-test.dir/unit_tests.cc.o"
+}
+]

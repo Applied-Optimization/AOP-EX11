@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/LBFGS.dir/main.cc.o -o ../Build/bin/LBFGS 

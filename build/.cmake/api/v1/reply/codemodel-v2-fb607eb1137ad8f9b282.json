@@ -1,0 +1,652 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "_deps/googletest-build",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.googletest-build-Release-325181791364522dc3de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "build/_deps/googletest-src"
+				},
+				{
+					"build" : "_deps/googletest-build/googlemock",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.googletest-build.googlemock-Release-7008e0a3307a229632a5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "build/_deps/googletest-src/googlemock",
+					"targetIndexes" : 
+					[
+						26,
+						27
+					]
+				},
+				{
+					"build" : "_deps/googletest-build/googletest",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.googletest-build.googletest-Release-c2ab931bfd1818350616.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 3,
+					"source" : "build/_deps/googletest-src/googletest",
+					"targetIndexes" : 
+					[
+						28,
+						29
+					]
+				},
+				{
+					"build" : "EigenTutorial",
+					"jsonFile" : "directory-EigenTutorial-Release-1d8326ac7aa1e0de3942.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "EigenTutorial",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "GridSearch",
+					"jsonFile" : "directory-GridSearch-Release-8c2f9a85f6b8c818952f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "GridSearch",
+					"targetIndexes" : 
+					[
+						14,
+						15
+					]
+				},
+				{
+					"build" : "CsvExporter",
+					"jsonFile" : "directory-CsvExporter-Release-a1f5431324606fa2f20d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "CsvExporter",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "ConvexityTests",
+					"jsonFile" : "directory-ConvexityTests-Release-96b404694db90ed94e0e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ConvexityTests",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "MassSpringSystem",
+					"jsonFile" : "directory-MassSpringSystem-Release-8b2425555f9486dc9d3c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MassSpringSystem"
+				},
+				{
+					"build" : "MassSpringProblemEvaluation",
+					"jsonFile" : "directory-MassSpringProblemEvaluation-Release-c77bb5d92ae03a639100.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MassSpringProblemEvaluation",
+					"targetIndexes" : 
+					[
+						20,
+						21
+					]
+				},
+				{
+					"build" : "OptimalityChecker",
+					"jsonFile" : "directory-OptimalityChecker-Release-91355627c08a84c8e644.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "OptimalityChecker",
+					"targetIndexes" : 
+					[
+						24,
+						25
+					]
+				},
+				{
+					"build" : "GradientDescent",
+					"jsonFile" : "directory-GradientDescent-Release-bf19075ef83fae653336.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "GradientDescent",
+					"targetIndexes" : 
+					[
+						12,
+						13
+					]
+				},
+				{
+					"build" : "NewtonMethods",
+					"jsonFile" : "directory-NewtonMethods-Release-040885e8e556474eaaa3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "NewtonMethods",
+					"targetIndexes" : 
+					[
+						22,
+						23
+					]
+				},
+				{
+					"build" : "LBFGS",
+					"jsonFile" : "directory-LBFGS-Release-27d879ebe828179a696a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LBFGS",
+					"targetIndexes" : 
+					[
+						18,
+						19
+					]
+				},
+				{
+					"build" : "GaussNewton",
+					"jsonFile" : "directory-GaussNewton-Release-1125c29412c51c6e0b7a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "GaussNewton",
+					"targetIndexes" : 
+					[
+						10,
+						11
+					]
+				},
+				{
+					"build" : "EqualityConstrainedNewton",
+					"jsonFile" : "directory-EqualityConstrainedNewton-Release-e55f1cafcb44c9ad9add.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "EqualityConstrainedNewton",
+					"targetIndexes" : 
+					[
+						6,
+						7
+					]
+				},
+				{
+					"build" : "EqualityConstrainedNewtonInfeasibleStart",
+					"jsonFile" : "directory-EqualityConstrainedNewtonInfeasibleStart-Release-8eedcdd81c070c0d0922.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "EqualityConstrainedNewtonInfeasibleStart",
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				},
+				{
+					"build" : "AugmentedLagrangian",
+					"jsonFile" : "directory-AugmentedLagrangian-Release-6862549df42380cc4fd6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "AugmentedLagrangian",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "InteriorPoint",
+					"jsonFile" : "directory-InteriorPoint-Release-ab66324a1aae2973e4ef.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "InteriorPoint",
+					"targetIndexes" : 
+					[
+						16,
+						17
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					],
+					"name" : "AOPT_EXERCISES",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "googletest-distribution",
+					"parentIndex" : 0
+				},
+				{
+					"childIndexes" : 
+					[
+						3
+					],
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "gmock",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						26,
+						27
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "gtest",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						28,
+						29
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 17,
+					"id" : "AugmentedLagrangian::@0678a7ec1b6bcf698eb5",
+					"jsonFile" : "target-AugmentedLagrangian-Release-ecb6746ef315d0d2a7b8.json",
+					"name" : "AugmentedLagrangian",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "AugmentedLagrangian-test::@0678a7ec1b6bcf698eb5",
+					"jsonFile" : "target-AugmentedLagrangian-test-Release-6708ba436971fdd7db48.json",
+					"name" : "AugmentedLagrangian-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "ConvexityTests::@48f2018f5cea646775fc",
+					"jsonFile" : "target-ConvexityTests-Release-8a382c1b5aaac1aff232.json",
+					"name" : "ConvexityTests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "ConvexityTests-test::@48f2018f5cea646775fc",
+					"jsonFile" : "target-ConvexityTests-test-Release-6591a61e112a8d0011c6.json",
+					"name" : "ConvexityTests-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "CsvExporter::@e2bf79343bb962c62286",
+					"jsonFile" : "target-CsvExporter-Release-668b2e2012926fa02c32.json",
+					"name" : "CsvExporter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "EigenTutorial-test::@51176a8bf1317c755e08",
+					"jsonFile" : "target-EigenTutorial-test-Release-9544d298aa6fc97addec.json",
+					"name" : "EigenTutorial-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "EqualityConstrainedNewton::@773f1d9c643dac428669",
+					"jsonFile" : "target-EqualityConstrainedNewton-Release-57d32e7a1c04cef93c31.json",
+					"name" : "EqualityConstrainedNewton",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "EqualityConstrainedNewton-test::@773f1d9c643dac428669",
+					"jsonFile" : "target-EqualityConstrainedNewton-test-Release-e32337d3b9499dc0ec04.json",
+					"name" : "EqualityConstrainedNewton-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "EqualityConstrainedNewtonInfeasibleStart::@c8fc575d7b7a325fdad4",
+					"jsonFile" : "target-EqualityConstrainedNewtonInfeasibleStart-Release-9a29cf2d3f305348f66f.json",
+					"name" : "EqualityConstrainedNewtonInfeasibleStart",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "EqualityConstrainedNewtonInfeasibleStart-test::@c8fc575d7b7a325fdad4",
+					"jsonFile" : "target-EqualityConstrainedNewtonInfeasibleStart-test-Release-80decea0497f7afafa92.json",
+					"name" : "EqualityConstrainedNewtonInfeasibleStart-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "GaussNewton::@02625a76eb5e081917f9",
+					"jsonFile" : "target-GaussNewton-Release-12072ac4d4212444236c.json",
+					"name" : "GaussNewton",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "GaussNewton-test::@02625a76eb5e081917f9",
+					"jsonFile" : "target-GaussNewton-test-Release-32a87bb7b4b335df2678.json",
+					"name" : "GaussNewton-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "GradientDescent::@55797a10960c9be15635",
+					"jsonFile" : "target-GradientDescent-Release-a5f0aab29ecab4f8c71d.json",
+					"name" : "GradientDescent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "GradientDescent-test::@55797a10960c9be15635",
+					"jsonFile" : "target-GradientDescent-test-Release-403478005c2e55c74fae.json",
+					"name" : "GradientDescent-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "GridSearch::@aa254e6fcb9a48e6d6b7",
+					"jsonFile" : "target-GridSearch-Release-bd13bdfeacba8a2f1625.json",
+					"name" : "GridSearch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "GridSearch-test::@aa254e6fcb9a48e6d6b7",
+					"jsonFile" : "target-GridSearch-test-Release-5d71539051f0a5bdc25c.json",
+					"name" : "GridSearch-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "InteriorPoint::@052ef9dcfc416a0fb1e7",
+					"jsonFile" : "target-InteriorPoint-Release-d5793d0a3e814bae6e5a.json",
+					"name" : "InteriorPoint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "InteriorPoint-test::@052ef9dcfc416a0fb1e7",
+					"jsonFile" : "target-InteriorPoint-test-Release-5bc7d7b9178071ac0bc0.json",
+					"name" : "InteriorPoint-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "LBFGS::@816c7b0312575c49d683",
+					"jsonFile" : "target-LBFGS-Release-e4a5c7c57c73ef535df2.json",
+					"name" : "LBFGS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "LBFGS-test::@816c7b0312575c49d683",
+					"jsonFile" : "target-LBFGS-test-Release-063f91b641d6072ef862.json",
+					"name" : "LBFGS-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "MassSpringProblemEvaluation::@3f9437fba1714dcfefd7",
+					"jsonFile" : "target-MassSpringProblemEvaluation-Release-ac052a41d5cec0810d02.json",
+					"name" : "MassSpringProblemEvaluation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "MassSpringProblemEvaluation-test::@3f9437fba1714dcfefd7",
+					"jsonFile" : "target-MassSpringProblemEvaluation-test-Release-c394693692f2f0500581.json",
+					"name" : "MassSpringProblemEvaluation-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "NewtonMethods::@efe3ea7fbd9a4ea1012f",
+					"jsonFile" : "target-NewtonMethods-Release-3e095f7f0dc8fb3dbb19.json",
+					"name" : "NewtonMethods",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "NewtonMethods-test::@efe3ea7fbd9a4ea1012f",
+					"jsonFile" : "target-NewtonMethods-test-Release-5752650910deb5c23459.json",
+					"name" : "NewtonMethods-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "OptimalityChecker::@fb647b8859c11656c117",
+					"jsonFile" : "target-OptimalityChecker-Release-1bc01a38472ad457640b.json",
+					"name" : "OptimalityChecker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "OptimalityChecker-test::@fb647b8859c11656c117",
+					"jsonFile" : "target-OptimalityChecker-test-Release-40b94837b5bb4525c01d.json",
+					"name" : "OptimalityChecker-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmock::@0f7bb11d64f3678238c7",
+					"jsonFile" : "target-gmock-Release-6d2e1a00af5de48b25f2.json",
+					"name" : "gmock",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmock_main::@0f7bb11d64f3678238c7",
+					"jsonFile" : "target-gmock_main-Release-4974282910bb4ebea124.json",
+					"name" : "gmock_main",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gtest::@1ea2dfc0605fe3ab2a3f",
+					"jsonFile" : "target-gtest-Release-abf7baba1275648403ab.json",
+					"name" : "gtest",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gtest_main::@1ea2dfc0605fe3ab2a3f",
+					"jsonFile" : "target-gtest_main-Release-3548140fdf48f1f8a7eb.json",
+					"name" : "gtest_main",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/deepshukla/aopt-exercise11/aopt-exercise11/build",
+		"source" : "/home/deepshukla/aopt-exercise11/aopt-exercise11"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
